@@ -1,5 +1,9 @@
 hello, git
-
 Hello again
 New information here
-This is fun to add remotelyFeature1
+This is fun to add remotely
+
+Feature1
+Feature2
+Feature2 changes
+
